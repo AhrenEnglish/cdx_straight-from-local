@@ -1,4 +1,4 @@
-<h1 align="center">🌲 Linktree</h1>
+<h1 align="center">FUCK THIS README FILE</h1>
 <h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnggli/linktree?color=04D361&labelColor=000000">
   </a>
 </p>
-
+ASDFASDFASDF
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
