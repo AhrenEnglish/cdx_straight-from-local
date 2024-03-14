@@ -32,7 +32,7 @@ ASDFASDFASDF
 
 ## 💡 About the project
 
-This is an open source project that serves as a free alternative to the Linktree website.
+This is a simple goddamn linktree clone that I'm using to keep my stupid employees from asking questions.
 - [Demo](https://johnggli.github.io/linktree)
 
 ## 🚀 Getting started
